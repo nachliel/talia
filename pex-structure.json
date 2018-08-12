@@ -1,0 +1,17 @@
+{
+  "_id" : "Hash(NetworkName+type)",
+  "networkname" : "Namespace",
+  "type" : "network,site,vault,message",
+  "time" : "register-timestamp",
+  "password" : "Hashed Password",
+  "peers" : [
+    {
+      "address" : "ip(122.122.122.122)",
+      "Net" : "IPv4/6",
+      "name" : "client/server/peer",
+      "url" : "http://www.google.com",
+      "email" : "mail@google.com",
+      "time" : "peer-register-timestamp"
+    }
+  ]
+}
